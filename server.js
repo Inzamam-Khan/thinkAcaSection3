@@ -22,7 +22,7 @@ app.use(limiter);
 
 // Routes
 app.use("/auth", authRoutes);
-app.use("/products", productRoutes);
+app.use("/api/products", productRoutes);
 
 app.listen(process.env.PORT, () => {
   console.log(`Server running on port ${process.env.PORT}`);
