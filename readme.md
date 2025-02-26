@@ -19,7 +19,7 @@ A secure REST API for managing products with JWT authentication and rate limitin
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/product-management-api.git
+git clone https://github.com/Inzamam-Khan/thinkAcaSection3.git
 cd ProductManagementApiThinkACA
 ```
 
